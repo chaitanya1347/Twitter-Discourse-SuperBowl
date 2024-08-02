@@ -1,0 +1,1 @@
+Worked on the Twitter Discourse analysis of the topic Super Bowl between three diferent countries over the last 5 years .Implemented LDA model using Gensim & spaCy python libraries .Constructed the Trend Graph, based on the Occurrence Rate of Each Topic and based on Each Keyword in the Topic X
